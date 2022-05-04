@@ -1,0 +1,5 @@
+package com.libertytech.app.repository;
+
+public interface UserRepository {
+
+}

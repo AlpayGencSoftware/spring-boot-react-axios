@@ -1,0 +1,5 @@
+package com.libertytech.app.controller;
+
+public class UserController {
+
+}

@@ -1,0 +1,5 @@
+package com.libertytech.app.model;
+
+public class User {
+
+}

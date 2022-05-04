@@ -1,0 +1,19 @@
+package com.libertytech.app.controller;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.libertytech.app.model.User;
+
+@RestController
+@RequestMapping("api/")
+public class UserController {
+	
+	@GetMapping("users")
+	public List<User> getUsers(){
+			
+	}
+}

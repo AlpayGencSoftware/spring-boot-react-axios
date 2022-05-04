@@ -1,0 +1,8 @@
+package com.libertytech.app.model;
+
+public class User {
+  private long id;
+  private String userName;
+  private String lastName;
+  private String email;
+}
